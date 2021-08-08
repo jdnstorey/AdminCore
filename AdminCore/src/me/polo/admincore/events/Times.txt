@@ -1,0 +1,25 @@
+Command	Estimated Time of Day
+  time set 0	6:00am
+  time set 1000	7:00am (day)
+  time set 2000	8:00am
+  time set 3000	9:00am
+  time set 4000	10:00am
+  time set 5000	11:00am
+  time set 6000	12:00pm (noon  midday)
+  time set 7000	1:00pm
+  time set 8000	2:00pm
+  time set 9000	3:00pm
+  time set 10000	4:00pm
+  time set 11000	5:00pm
+  time set 12000	6:00pm (sunset  dusk)
+  time set 13000	7:00pm (night)
+  time set 14000	8:00pm
+  time set 15000	9:00pm
+  time set 16000	10:00pm
+  time set 17000	11:00pm
+  time set 18000	12:00am (midnight)
+  time set 19000	1:00am
+  time set 20000	2:00am
+  time set 21000	3:00am
+  time set 22000	4:00am
+  time set 23000	5:00am (sunrise  dawn)

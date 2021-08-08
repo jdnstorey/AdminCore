@@ -1,0 +1,89 @@
+main: me.polo.admincore.Main
+name: AdminCore
+author: Polo
+version: 1.0.13
+api-version: 1.16
+
+commands:
+  help:
+  adminhelp:
+    permission: admincore.adminhelp
+
+  playerinfo:
+    permission: admincore.playerinfo
+
+  discord:
+
+  sleeping:
+    permission: admincore.sleeping
+  runtimequery:
+    permission: admincore.sleeping
+
+  warp:
+  setwarp:
+    permission: admincore.setwarp
+  delwarp:
+    permission: admincore.delwarp
+
+  heal:
+    aliases: h
+    permission: admincore.heal
+  feed:
+    aliases: f
+    permission: admincore.feed
+
+  vanish:
+    permission: admincore.vanish
+
+  god:
+    permission: admincore.god
+  ungod:
+    permission: admincore.god
+  godquery:
+    permission: admincore.god
+  fly:
+    permission: admincore.fly
+  flyquery:
+    permission: admincore.fly
+
+  clearchat:
+    aliases: cc
+    permission: admincore.clearchat
+
+  broadcast:
+    aliases: bc
+    permission: admincore.broadcast
+
+  fake:
+    permission: admincore.fake
+
+  namebomb:
+    aliases: nb
+    permission: admincore.namebomb
+  unnamebomb:
+    aliases: unnb
+    permission: admincore.namebomb
+
+  invsee:
+    permission: admincore.invsee
+  ec:
+    permission: admincore.enderchest
+
+  msg:
+  spawn:
+  back:
+  track:
+
+  deathcounter:
+    aliases: dc
+  deathcounteradd:
+    aliases: dcadd
+    permission: admincore.deathcounteradd
+  deathcounterdelete:
+    aliases: dcdel
+    permission: admincore.deathcounterdelete
+
+  freeze:
+    permission: admincore.freeze
+  unfreeze:
+    permission: admincore.freeze
