@@ -16,7 +16,7 @@ public class EnderChestSee implements CommandExecutor {
             Player p = (Player) sender;
             if (p.hasPermission("admincore.enderchest")) {
                 if (cmd.getName().equalsIgnoreCase("ec")) {
-                    if (args.length != 1) {
+                    if (args.length != 1) {J
                         p.sendMessage(ChatColor.RED + "Insufficent Arguments");
                     } else {
                         Player t = Bukkit.getPlayer(args[0]);
